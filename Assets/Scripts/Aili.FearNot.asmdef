@@ -1,0 +1,28 @@
+{
+    "name": "Aili.FearNot",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:f18198c2dcb7fd143943366049031706",
+        "GUID:caca889fed6088d40b22c2d7e2909c31",
+        "GUID:b18aee797346acc4a8bb37d2099124cf",
+        "GUID:58bed0e7c5306824586d7eda03609289",
+        "GUID:c90425261ba3e004a8034af63037345a",
+        "GUID:e3a06a13e923679419a38ca5553f4714",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:66bce62a447eb5b428cdea9ac76aa1f0",
+        "GUID:9afd903fa2dcacc4c966618ed1e108a8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

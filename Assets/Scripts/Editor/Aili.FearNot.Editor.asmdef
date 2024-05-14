@@ -1,0 +1,18 @@
+{
+    "name": "Aili.FearNot.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:294fe64ceb4acea4db7f8878e7bf475e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

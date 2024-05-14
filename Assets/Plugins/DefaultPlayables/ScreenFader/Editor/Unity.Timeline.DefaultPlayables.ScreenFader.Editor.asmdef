@@ -1,0 +1,18 @@
+{
+    "name": "Unity.Timeline.DefaultPlayables.ScreenFader.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:20d481a40c629464ab8db620c052768f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

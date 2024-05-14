@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1181d19d27babe34c99c6d27f76dfa9d, type: 3}
+  m_Name: AudioSourceSettings
+  m_EditorClassIdentifier: 
+  soundName: 
+  audioClip: {fileID: 8300000, guid: f894675e717c3da429939ff58867f061, type: 3}
+  mixerGroup: {fileID: -6783325418219063731, guid: 73a919b21d28a854085b7952bd4897cd, type: 2}
+  loop: 1
+  volume: 1
+  pitch: 1
+  spatialBlend: 1
+  dopplerLevel: 1
+  spreadAngle: 0
+  volumeRolloff: 0
+  minDistance: 0.5
+  maxDistance: 5
+  source: {fileID: 0}

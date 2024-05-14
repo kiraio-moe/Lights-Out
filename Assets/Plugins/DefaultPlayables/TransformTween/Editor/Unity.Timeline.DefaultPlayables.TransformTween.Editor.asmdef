@@ -1,0 +1,18 @@
+{
+    "name": "Unity.Timeline.DefaultPlayables.TransformTween.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a4ec1119efa5caa4ba88a818ea198a25"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

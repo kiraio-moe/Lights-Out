@@ -1,0 +1,18 @@
+{
+    "name": "Unity.Timeline.DefaultPlayables.LightControl.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1cf181ebe58f2ef4db2b567e8006ec88"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
